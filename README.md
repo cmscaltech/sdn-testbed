@@ -1,6 +1,7 @@
 # SDN testbed and SDN cluster
 ## Server nodes and switches
  **Servers**
+ 
 * sdn-login-1.ultralight.org 
 * sandie-1.ultralight.org 
 * sandie-3.ultralight.org
@@ -16,6 +17,7 @@
 * sdn-dtn-2-11.ultralight.org 
 
 **Switches**
+
 * Dell Z9100 (main)
 * Arista
 * SONIC
@@ -24,7 +26,7 @@
 * BUR0061 (AS9516_32D (TOFINO2))
 * BUR0001 (Wedge100BF32X)
 
-Please find the technical specification of these nodes is available at **FILE.MD**
+Please find the technical specification of these nodes available at [**FILE.md**](FILE.md)
 
 ## Credit
 
