@@ -43,11 +43,11 @@ If you are planning to work on a new project in the SDN cluster, then please be 
 ## Current Projects
 |Project Name| Responsible person | Responsible person from SDN team Caltech | Responsibility of SDN team at Caltech |Project Details|
 |------------|--------------------|------------------------------------------|----------------------------------------|---|
-|Polka|Everson
-|FreeRTR,P4|Marcos Schwarz, Frederic
+|Polka|Everson|||[Click here](https://github.com/cmscaltech/sdn-testbed/blob/main/Projects/Polka.pdf)
+|FreeRTR,P4|Marcos Schwarz, Frederic|||[Click here](https://github.com/cmscaltech/sdn-testbed/blob/main/Projects/GP4L.pdf)
 |Autogole End-to-End Testing|Marcos Schwarz
-|ESNet Monitoring project|Tom, Xi, Pratyush, Zhenbo|||[Click here](https://github.com/preeti-bhat/sdn-testbed/blob/617b6842083c840bb48f71492acf91c8fa8a74ed/Projects/ESNet%20SENSE%20Realtime%20Flow%20Monitoring%20Project%20.pdf)
-|NDISE/SANDIE|YuanHao Wu, Catalin, Edmund, Harvey|Catalin, Raimondas||[Click here](https://github.com/preeti-bhat/sdn-testbed/blob/617b6842083c840bb48f71492acf91c8fa8a74ed/Projects/N-DISE.pdf)
+|ESNet Monitoring project|Tom, Xi, Pratyush, Zhenbo|||[Click here](https://github.com/cmscaltech/sdn-testbed/blob/main/Projects/ESNet%20SENSE%20Realtime%20Flow%20Monitoring%20Project%20.pdf)
+|NDISE/SANDIE|YuanHao Wu, Catalin, Edmund, Harvey|Catalin, Raimondas||[Click here](https://github.com/cmscaltech/sdn-testbed/blob/main/Projects/N-DISE.pdf)
 |SENSE Development and SENSE-Rucio Integration|Justas, Tom, Xi, Harvey, Aashay|Justas, Preeti
 |PRP Kubernetes|John G, Dima M| | Support in case of power/network issues
 
